@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGolfieApp</string>
+
+    <string-array name="countries">
+        <item>Austrilia</item>
+        <item>Austrilia</item>
+        <item>Austrilia</item>
+        <item>Austrilia</item>
+        <item>Austrilia</item>
+
+    </string-array>
+</resources>
